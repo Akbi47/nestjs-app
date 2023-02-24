@@ -26,6 +26,8 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+CRUD app project using Nestjs connect with MySQL Database, Passport authentication, JWT.
+
 ## Installation
 
 ```bash
